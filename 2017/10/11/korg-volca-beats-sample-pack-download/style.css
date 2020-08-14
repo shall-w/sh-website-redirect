@@ -1,0 +1,11 @@
+.center {
+    margin: auto;
+    width: 50%;
+    background-color: #ffffff;
+    padding: 10px;
+  }
+
+body {
+    background-color: #353e49;
+    font-family: 'Karla', sans-serif;
+}
