@@ -8,4 +8,5 @@
 body {
     background-color: #353e49;
     font-family: 'Karla', sans-serif;
+    overflow: hidden;
 }
